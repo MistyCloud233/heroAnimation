@@ -3,9 +3,10 @@
     <section class="hero-section" data-name="HeroSection">
       <div class="container" data-name="Container">
         <div class="hero-text" data-name="Heading 1">
-          <h1 class="title">One Step from Spark to Reality</h1>
-          <p class="highlight">NO CAD skill needed</p>
-          <p class="description">share your idea freely with Sparkoh using simple words</p>
+          <h1 class="title">Spark - Draft - Model</h1>
+          <p class="highlight">Draft-first 3D creation for makers.</p>
+          <p class="description">Simple words - summary and sketch out - generate when you're
+ready</p>
         </div>
 
         <div class="action-row">
